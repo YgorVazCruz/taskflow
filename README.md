@@ -1,51 +1,53 @@
-# 🚀 TaskFlow – Painel de Tarefas Profissional
+# TaskFlow 🗂️
 
-TaskFlow é um painel de tarefas moderno, responsivo e totalmente funcional, desenvolvido com **React + Vite + TailwindCSS**, focado em organização pessoal e produtividade.  
-Ideal para uso profissional, aprendizado e demonstração de habilidades fullstack em projetos reais.
+Um painel de tarefas moderno, elegante e funcional, desenvolvido com **React + Vite** e estilizado com **TailwindCSS**. Projetado para demonstrar habilidades em criação de interfaces profissionais, organização de tarefas, filtros dinâmicos e boas práticas de UI/UX.
 
----
+## 🔥 Funcionalidades
 
-## 🔑 Funcionalidades
-
-- ✅ **Tela de login** com validação (`admin` / `123`)
-- ✅ **CRUD de tarefas** (criar, concluir, remover)
-- 🕒 **Registro automático de data/hora** de criação e conclusão
-- 💾 **Salvamento local com LocalStorage**
-- 🌓 Interface elegante com **TailwindCSS**
-- 📱 Design responsivo e fluido
+- ✅ Adicionar novas tarefas
+- ✅ Marcar tarefas como concluídas
+- ✅ Filtrar por: Todas | Ativas | Concluídas
+- ✅ Remover tarefas
+- ✅ Visual moderno e responsivo (Glassmorphism)
+- ✅ Registro da **data e hora de criação/conclusão**
+- ✅ Tela de login simulada para acesso ao painel
 
 ---
 
-## 🖼️ Preview
+## 🖼️ Imagens do projeto
 
-![TaskFlow Preview](https://via.placeholder.com/800x400.png?text=Preview+do+TaskFlow)
+**Tela de login**
+![Tela de Login](./public/preview-login.png)
 
----
-
-## 💻 Tecnologias utilizadas
-
-- [React](https://reactjs.org/)
-- [Vite](https://vitejs.dev/)
-- [TailwindCSS](https://tailwindcss.com/)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- HTML + CSS
+**Painel de tarefas**
+![Painel de Tarefas](./public/preview-painel.png)
 
 ---
 
-## 📦 Como rodar localmente
+## 🛠️ Tecnologias Utilizadas
+
+- React.js
+- Vite
+- TailwindCSS
+- Local Storage (temporário)
+- HTML5 / CSS3 moderno
+- Git + GitHub
+
+---
+
+## 📌 Observações
+
+- **As tarefas ainda não são salvas permanentemente** — o projeto não possui backend nem persistência após atualizar a página.
+- Este sistema foi desenvolvido com foco em **apresentação visual e lógica de interface**, não em persistência de dados.
+- Pode ser facilmente integrado a um banco de dados (como Firebase, Supabase ou backend com Node.js + Prisma).
+- Ideal para demonstrar **conhecimento técnico, boas práticas e domínio de ferramentas modernas de front-end.**
+
+---
+
+## 📥 Como rodar localmente
 
 ```bash
-# Clone o projeto
-git clone https://github.com/seu-usuario/taskflow.git
-
-# Acesse a pasta
+git clone https://github.com/YgorVazCruz/taskflow.git
 cd taskflow
-
-# Instale as dependências
 npm install
-
-# Inicie o projeto
 npm run dev
-
-
-_Ygor_Cruz_ -> ygormvc@gmail.com
