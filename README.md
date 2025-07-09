@@ -21,7 +21,8 @@ Um painel de tarefas moderno, elegante e funcional, desenvolvido com **React + V
 
 
 **Painel de tarefas**
-![Painel de Tarefas](./public/preview-painel.png)
+![image](https://github.com/user-attachments/assets/d113a96b-c262-4f70-9a7e-3d0c2e6864f9)
+
 
 ---
 
