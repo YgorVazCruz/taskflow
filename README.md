@@ -17,7 +17,8 @@ Um painel de tarefas moderno, elegante e funcional, desenvolvido com **React + V
 ## 🖼️ Imagens do projeto
 
 **Tela de login**
-![Tela de Login](./public/preview-login.png)
+![image](https://github.com/user-attachments/assets/4802a316-1ac3-4e7c-8bef-9eca32ee1889)
+
 
 **Painel de tarefas**
 ![Painel de Tarefas](./public/preview-painel.png)
