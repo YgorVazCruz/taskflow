@@ -6,7 +6,6 @@ Um painel de tarefas moderno, elegante e funcional, desenvolvido com **React + V
 
 - ✅ Adicionar novas tarefas
 - ✅ Marcar tarefas como concluídas
-- ✅ Filtrar por: Todas | Ativas | Concluídas
 - ✅ Remover tarefas
 - ✅ Visual moderno e responsivo (Glassmorphism)
 - ✅ Registro da **data e hora de criação/conclusão**
