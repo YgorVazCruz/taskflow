@@ -49,3 +49,4 @@ npm run dev
 
 
 _Ygor_Cruz_ -> ygormvc@gmail.com
+https://www.linkedin.com/in/ygor-cruz/
